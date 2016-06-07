@@ -1,2 +1,2 @@
 # Cross-Validation-for-pyspark
-It is a simple program for cross validation in pySpark. The task in the given code is twitter sentiment analysis, so the entire code snippet of cross validation contains steps for feature extraction, conversion to labeled data and then the classifier (here Naive Bayes Classifier) code. 
+It is a simple program for cross validation in pySpark. The file names for complete code is named complete together with the corresponding machine learning algorithm used. The cross validation code is named as CrossValidation.py
